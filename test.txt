@@ -1,2 +1,6 @@
 hi ahhhhhhh
+<<<<<<< HEAD
 ahhhhhhhhhhhhhhhhhhh
+=======
+wonmp womp
+>>>>>>> Updatetest
